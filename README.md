@@ -53,10 +53,6 @@ The data reveals strong consumer demand for specific genres like Rock, Pop, and 
 
 ---
 
-![Data Chart](image3.jpeg)
-
----
-
 ## 💡 Recommendations
 
 ### 🎯 Sales & Marketing
@@ -76,12 +72,3 @@ The data reveals strong consumer demand for specific genres like Rock, Pop, and 
 - Analyze listening behavior to suggest similar artists or albums
 
 ---
-
-## 📊 Dashboard
-
-![Dashboard](Dashboard1.png)
-
----
-
-## 📁 Repository Structure
-
