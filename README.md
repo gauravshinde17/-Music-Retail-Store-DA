@@ -24,6 +24,8 @@ This project presents a comprehensive data analysis of a digital music retail st
 - 💰 Analyze revenue performance by employee, region, and invoice  
 
 ---
+## 🧩 Schema
+![Music Store Schema](Chinook_Schema.png)
 
 ## 📈 Key Insights
 
