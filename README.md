@@ -1,6 +1,6 @@
 # 🎼 Music Retail Store Data Analysis
 
-![Music Store Banner](image2.webp)
+![Music Store](Music_Store.png)
 
 ## 📌 Project Overview
 
@@ -11,7 +11,6 @@ This project presents a comprehensive data analysis of a digital music retail st
 ## ⚙️ Tools Used
 
 <img src="mysql.png" alt="MySQL Logo" width="120" height="90">
-
 
 ---
 
