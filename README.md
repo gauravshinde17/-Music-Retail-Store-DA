@@ -10,8 +10,8 @@ This project presents a comprehensive data analysis of a digital music retail st
 
 ## ⚙️ Tools Used
 
-[<img src="mysql-logo.png" alt="MySQL Logo" width="70" height="70">](https://www.mysql.com/)  
-**MySQL Workbench**
+<img src="mysql.png" alt="MySQL Logo" width="120" height="90">
+
 
 ---
 
