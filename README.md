@@ -24,7 +24,7 @@ This project presents a comprehensive data analysis of a digital music retail st
 
 ---
 ## 🧩 Schema
-![Music Store Schema](Chinook_Schema.png)
+![Music Store Schema](Music_Store_Schema.png)
 
 ## 📈 Key Insights
 
